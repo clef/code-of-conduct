@@ -6,6 +6,6 @@ We do not tolerate harassment of community members in any form. Harassment inclu
 
 Participants asked to stop any harassing behavior are expected to comply immediately. Community members violating these rules may be sanctioned or removed from community spaces. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact team@getclef.com immediately.
 
-We expect community members to follow these rules in all Clef-related communities (including but not limited to IRC, Support chat, Twitter, Facebook) and at all Clef-related social events.
+We expect community members to follow these rules in all Clef-related communities (including but not limited to IRC, support chat, Twitter, and Facebook) and at all Clef-related social events.
 
-*Credit to the [Hack Code of Conduct](http://hackcodeofconduct.org/) for the base version of this Code of Conduct*
+*Adapted from the [Hack Code of Conduct](http://hackcodeofconduct.org/).*
