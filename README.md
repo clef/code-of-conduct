@@ -10,4 +10,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We expect community members to follow these rules in all Clef-related communities (including but not limited to IRC, Support chat, Twitter, Facebook) and at all Clef-related social events.
 
-* Credit to the [Hack Code of Conduct](http://hackcodeofconduct.org/) for the base version of this Code of Conduct*
+*Credit to the [Hack Code of Conduct](http://hackcodeofconduct.org/) for the base version of this Code of Conduct*
