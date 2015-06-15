@@ -2,7 +2,7 @@
 
 Our community is dedicated to creating a welcoming environment for everyone, regardless of gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, or computing experience (or lack of any of the aforementioned). 
 
-We do not tolerate harassment of community members in any form. Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+We do not tolerate harassment of community members in any form. Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Harassment does not need to be recognized as unwanted or unwelcome by anyone other than the person being harassed. 
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance at this event.
 
